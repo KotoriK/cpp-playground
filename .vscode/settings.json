@@ -44,6 +44,8 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "malloc.h": "c"
+        "malloc.h": "c",
+        "xstring": "cpp",
+        "xmemory": "cpp"
     }
 }
