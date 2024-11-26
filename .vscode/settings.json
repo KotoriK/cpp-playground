@@ -46,6 +46,7 @@
         "typeinfo": "cpp",
         "malloc.h": "c",
         "xstring": "cpp",
-        "xmemory": "cpp"
+        "xmemory": "cpp",
+        "format": "cpp"
     }
 }
